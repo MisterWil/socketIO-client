@@ -1,3 +1,8 @@
+0.8.0
+---
+- Merged pull requests from original client: #158, #154, #126
+- Fixed unicode decode from #158
+
 0.7
 ---
 - Fixed thread cleanup

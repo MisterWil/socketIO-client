@@ -34,8 +34,8 @@ def get_character(x, index):
 
 
 def decode_string(x):
-    return x.decode('utf-8')
+    return x.decode('utf-8', 'ignore')
 
 
 def encode_string(x):
-    return x.encode('utf-8')
+    return x.encode('utf-8', 'ignore')
